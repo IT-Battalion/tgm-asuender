@@ -1,6 +1,6 @@
 # tgm-asuender
 
-Dieses Repository dient endgültige Ablage meiner eigenen Arbeiten, die im Laufe der fünf Jahre am TGM so entstanden sind. Ziel ist es, Schülerinnen und Schülern eine (weitere!) Möglichkeit anzubieten, sich Inspiration für verschiedenste Aufgaben zu holen (selbst wenn diese mittlerweile geändert wurden).
+Dieses Repository dient als endgültige Ablage meiner eigenen Arbeiten, die im Laufe der fünf Jahre am TGM so entstanden sind. Ziel ist es, Schülerinnen und Schülern eine (weitere!) Möglichkeit anzubieten, sich Inspiration für verschiedenste Aufgaben zu holen (selbst wenn diese mittlerweile geändert wurden).
 
 ## Aufbau und Struktur
 
