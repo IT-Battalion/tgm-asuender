@@ -1,3 +1,4 @@
 [submodule "insy"]
 	path = insy
 	url = https://github.com/asuender/tgm-insy
+  branch = main
